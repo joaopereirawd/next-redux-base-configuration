@@ -1,0 +1,7 @@
+.header {
+    @apply w-full h-20 border border-red-500;
+
+    &__content {
+        @apply w-full flex justify-center bg-red-600    ;
+    }
+}
